@@ -1,4 +1,5 @@
 import mongodb from 'mongodb';
+import envLoader from './env_loader';
 import Collection from 'mongodb/lib/collection';
 
 
