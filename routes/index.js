@@ -27,4 +27,4 @@ const router = (api) => {
 	api.use(errorResponse);
 };
 
-module.exports = router;
+export default router;
